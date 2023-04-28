@@ -1,0 +1,4 @@
+wheel
+requests
+customtkinter
+pyinstaller
